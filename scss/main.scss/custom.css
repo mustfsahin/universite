@@ -2,10 +2,10 @@
 /* Bu bizim özel kırmızı rengimiz */
 /* Bu kod, "Get Started" butonunun rengini kırmızı yapar */
 .btn-getstarted {
-  background-color: #d9232d;
+  background-color: #4c1bd2;
 }
 
 /* Bu kod, menüde o an hangi sayfadaysan o linkin rengini kırmızı yapar */
 .navmenu .active {
-  color: #d9232d;
+  color: #5d23d9;
 }/*# sourceMappingURL=main.css.map */
